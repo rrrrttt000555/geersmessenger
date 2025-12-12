@@ -1,2 +1,2 @@
-# geersmessenger
+# geersmessenger - общайтесь умнее, а не больше
 Мессенджер с нейросетью
